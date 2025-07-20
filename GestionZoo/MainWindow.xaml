@@ -1,0 +1,14 @@
+﻿<Window x:Class="GestionZoo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GestionZoo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="725">
+    <Grid>
+        <Label Content="Lista de Zoos " HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="ListaZoos" HorizontalAlignment="Left" Height="253" Margin="10,36,0,0" VerticalAlignment="Top" Width="149"/>
+
+    </Grid>
+</Window>
