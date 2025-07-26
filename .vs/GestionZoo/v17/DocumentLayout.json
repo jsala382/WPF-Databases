@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\bootcamp\\GestionZoo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|C:\\bootcamp\\GestionZoo\\gestionzoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|solutionrelative:gestionzoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|c:\\bootcamp\\gestionzoo\\gestionzoo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|solutionrelative:gestionzoo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|c:\\bootcamp\\gestionzoo\\gestionzoo\\esdirectadbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
-      "RelativeMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|solutionrelative:gestionzoo\\esdirectadbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\AppData\\Local\\Temp\\x1gp5lx1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|c:\\bootcamp\\gestionzoo\\gestionzoo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|C:\\bootcamp\\GestionZoo\\gestionzoo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|solutionrelative:gestionzoo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|C:\\bootcamp\\GestionZoo\\gestionzoo\\esdirectadbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|solutionrelative:gestionzoo\\esdirectadbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|c:\\bootcamp\\gestionzoo\\gestionzoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|solutionrelative:gestionzoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|C:\\bootcamp\\GestionZoo\\gestionzoo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEF60EB9-AFE2-4C35-8F3E-CE200B395B1C}|GestionZoo\\GestionZoo.csproj|solutionrelative:gestionzoo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\AppData\\Local\\Temp\\x1gp5lx1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
@@ -32,11 +32,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "App.config",
               "DocumentMoniker": "C:\\bootcamp\\GestionZoo\\GestionZoo\\App.config",
               "RelativeDocumentMoniker": "GestionZoo\\App.config",
@@ -49,7 +49,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "x1gp5lx1..sql ",
               "DocumentMoniker": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\x1gp5lx1..sql",
               "RelativeDocumentMoniker": "..\\..\\Users\\Usuario\\AppData\\Local\\Temp\\x1gp5lx1..sql",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\bootcamp\\GestionZoo\\GestionZoo\\MainWindow.xaml",
               "RelativeDocumentMoniker": "GestionZoo\\MainWindow.xaml",
@@ -84,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\bootcamp\\GestionZoo\\GestionZoo\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "GestionZoo\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\bootcamp\\GestionZoo\\GestionZoo\\MainWindow.xaml.cs",
-              "RelativeToolTip": "GestionZoo\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\bootcamp\\GestionZoo\\GestionZoo\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "GestionZoo\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwFoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T20:39:58.958Z",
               "EditorCaption": ""
